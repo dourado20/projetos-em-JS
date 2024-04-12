@@ -1,0 +1,39 @@
+body{
+    background-color: #ffbe6e;
+    background: #ffbe6e url("grama.png") no-repeat bottom center;
+    background-size: 1925px 700px;
+
+
+}
+button{
+    border: solid 1px #ec7463;
+    background-color: #ffdc91;
+    align-items: center;
+    border-radius: 90px;
+    box-shadow: 8px 16px #b8954b;
+    
+}
+h1{
+font-family:'Franklin Gothic Medium';
+color: #ec7463;
+text-align: center;
+background-color: #ffdc91;
+}
+img{
+width: 250px;
+height: 250px;
+
+}
+button:hover{
+background: #ec7463;
+transform: scale(1.1);
+transition: all 0.11111;
+}
+button:active{
+background-color: #a0584c;
+}
+table{
+justify-content: center;
+margin: auto;
+
+}
